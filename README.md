@@ -11,7 +11,7 @@ Hi, my name is Alexandre Braga. I'm an Eletronics, computers and Telecom Enginee
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="48">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="48">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="48" style="margin: 5px;">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="48">
