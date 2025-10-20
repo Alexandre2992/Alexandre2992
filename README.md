@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, my name is Alexandre Braga. I'm an Eletronics, computers and Telecom Engineer who likes to code in my free time.
+Hi, my name is Alexandre Braga. I'm an Eletronics, Computers and Telecom Engineer who likes to code in my free time.
 
 <div style="line-height: 2.5; padding: 10px 0; font-size: 34px;"><strong>Skills</strong></div>
 
