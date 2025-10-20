@@ -8,29 +8,29 @@ Hi, my name is Alexandre Braga. I'm an Eletronics, computers and Telecom Enginee
 
   <!-- First Row: Web Fundamentals -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" height="48" style="margin: 5px;">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" height="48" style="margin: 5px;">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" height="48" style="margin: 5px;">
   </a>
   <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" height="48" style="margin: 5px;">
   </a>
   <!-- Second Row: Frameworks & Languages -->
   <a href="https://react.dev/" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" height="48" style="margin: 5px;">
   </a>
   <a href="https://en.cppreference.com/w/" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" height="48" style="margin: 5px;">
   </a>
   <a href="https://en.cppreference.com/w/c" title="C">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" height="48" style="margin: 5px;">
   </a>
   <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin: 5px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" height="48" style="margin: 5px;">
   </a>
 </div>
 <br><br>
