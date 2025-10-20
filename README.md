@@ -23,6 +23,9 @@ Hi, my name is Alexandre Braga. I'm an Eletronics, computers and Telecom Enginee
   <a href="https://react.dev/" title="React">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" height="48" style="margin: 5px;">
   </a>
+  <a href="https://getbootstrap.com/" tittle="Bootstrap">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" height="48" style="margin: 5px;"
+  </a>
   <a href="https://en.cppreference.com/w/" title="C++">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" height="48" style="margin: 5px;">
   </a>
