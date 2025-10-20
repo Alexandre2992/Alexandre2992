@@ -19,9 +19,6 @@ Hi, my name is Alexandre Braga. I'm an Eletronics, computers and Telecom Enginee
   <a href="https://www.typescriptlang.org/" title="TypeScript">
     <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="48">
   </a>
-
-  <!-- Second Row: Frameworks & Languages -->
-  <br>
   <a href="https://react.dev/" title="React">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="48">
   </a>
