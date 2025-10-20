@@ -32,7 +32,6 @@ Hi, my name is Alexandre Braga. I'm an Eletronics, computers and Telecom Enginee
   <a href="https://www.python.org/" title="Python">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin: 5px;">
   </a>
-  
-<br>
+ </div> 
 
 - 📫 Reach me at [alexandrebraga@ua.pt] or [https://www.linkedin.com/in/alexandre-braga-2a9363195/].
